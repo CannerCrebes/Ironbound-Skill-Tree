@@ -1,0 +1,16 @@
+{
+	"version": 1,
+
+	"show_warnings": true,
+
+	"categories": [
+		"fire",
+		"ice",
+		"lightning",
+		"nature",
+		"ender",
+		"blood",
+		"evocation",
+		"holy"
+	]
+}
